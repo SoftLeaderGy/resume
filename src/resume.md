@@ -5,10 +5,10 @@
 
 **求职意向：Java后端研发 / 沈阳** {.target}
 
-- **后端：** 3 年
+- **后端：** 4 年
 - **生日：** 1999.10.06
 - **籍贯：** 辽宁省铁岭市
-- **手机：** 17740039443
+- **手机：** 15541931357
 - **邮箱：** 826044698@qq.com
 - **学校：** 沈阳科技学院
 - **专业：** 计算机科学与技术
@@ -34,7 +34,7 @@
 
 **职位：** Java研发工程师
 
-**时间：** 2021.06 - 至今
+**时间：** 2021.06 - 2025.03
 
 **地址：** 沈阳
 
@@ -46,6 +46,20 @@
 - 对于客户的“终端一体机”进行前台的集群部署，网络隔离
 - 接手系统的“认证”部分，SpringSecurity+OAuth2.0实现本机系统的登录认证，以及第三方
   登录等。
+
+### 鸢飞科技
+
+**职位：** Java研发工程师
+
+**时间：** 2025.04 - 至今
+
+**地址：** 沈阳
+
+**工作内容：**
+
+- 根据业务需求，编写后台业务代码，提供前端组接口
+- 使用strom+kafka计算无人机实时预警
+- 对接第三方业务接口，赋能整体应用
 
 
 ## 技能专长
@@ -63,25 +77,6 @@
 
 
 ## 项目经验
-
-### 统一采集后台管理系统（北京直真科技-实习项目）
-
-**时间：** 2020.07 - 2021.03
-
-**技术栈：** Vue2、ElementPlus、SpringBoot、SpringCloudAlibaba、Redis、Mysql、MybatisPlus。
-
-**项目介绍：** 针对公司总部采购机器数量进行数据管理，维护。
-
-
-**项目职责：**
-
-- 后端开发
-
-**个人负责：**
-
-- 产品 UI 设计原型的实现及后端业务接口的对接。 
-- 后端业务接口设计及逻辑实现。
-
 
 ### 沈阳市医保公服网上大厅（东软集团-政府项目）
 
@@ -147,7 +142,7 @@
 ### 扬州市移动就医小程序（东软集团-政府项目）
 
 
-**时间：** 2024.05 - 2024.9
+**时间：** 2024.05 - 2025.03
 
 **技术栈：** Vue2、ElementPlus、SpringBoot、SpringCloudAlibaba、Redis、Mysql、MybatisPlus。
 
@@ -167,15 +162,33 @@
 - 就诊人管理
 - ...
 
+
+### 广汽试验场低空指挥监管平台（鸢飞科技-无人机空管项目）
+
+**时间：** 2025.04 - 至今
+
+**技术栈：** Vue2、ElementPlus、SpringBoot、Redis、Mysql、MybatisPlus、storm、kafka、mqtt
+
+**项目介绍：** 针对于广汽的eVTOL试飞前，以无人机先行作为试验飞行的空管指挥系统。实现了无人机从发布计划、审核审批、再到飞行的整体业务链路。
+
+
+**项目职责：**
+
+- 后端主力开发
+
+**个人负责：**
+- 无人机的大屏实时数据推送。
+- 飞机的实时预警。
+- 飞行计划、空域，申报、审核、审批等
 ## 个人项目搭建
 
-- [**softleadergy.top**](http://softleadergy.top/)：个人导航主页，[➡️](https://github.com/SoftLeaderGy/home)。
-- [**knowledge-base**](http://softleadergy.top/knowledge-base/)：个人在线知识库，自学笔记，解决问题文章等等。[➡️](https://gitee.com/softleadergy/softleadergy)。
-- [**博客-GY-Blog**](https://softleadergy.github.io/)：分享一些自己学习，搭建、总结的一些技术文章。[➡️](https://github.com/SoftLeaderGy)。
+- [**https://gy-home.pages.dev**](https://gy-home.pages.dev/)：个人导航主页。[➡️](https://github.com/SoftLeaderGy/home)。
+- [**https://gy-knowledge.pages.dev**](https://gy-knowledge.pages.dev/)：个人在线知识库，自学笔记，解决问题文章等等。[➡️](https://gitee.com/softleadergy/softleadergy)。
+- [**https://softleadergy.github.io**](https://softleadergy.github.io/)：分享一些自己学习，搭建、总结的一些技术文章。[➡️](https://github.com/SoftLeaderGy)。
 
 ## 个人优势 {data-print style="--print-padding: 0px 0 0 0"}
 
-**经验丰富：** 后端 3 年、分布式技术栈
+**经验丰富：** 后端 4 年、分布式技术栈
 
 **热爱学习：** 业余时间会看技术文档、教学视频等,同时也在维护自己的知识库、学习笔记、技术文章等。
 
